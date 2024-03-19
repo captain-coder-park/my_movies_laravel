@@ -1,0 +1,11 @@
+About my_movies_app
+In My Movies web application User can search for movies and view some details 
+Users need to login to manage the watch history.
+
+app name : my_movies_app (laravel V8)
+db details : mentioned in .env file (inside the application code)
+PHP Version: 7.4
+
+Testing Creds
+username : testing@omdb.com
+password : 12345678
